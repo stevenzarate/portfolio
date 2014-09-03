@@ -1,0 +1,31 @@
+div{
+    border-width: 5px;
+    
+    padding: 30px;
+}
+.container{
+    border-color: black;
+    border-style: solid;  
+}
+.row{
+border-style: solid;  
+}
+.col-xs-10{
+    border-color: green;
+    border-style: solid;  
+}
+.col-xs-2{
+    border-color: purple;
+    border-style: solid;  
+}
+#body{
+    background-color: grey;
+}
+#h1{
+   color: whitesmoke;
+   font-size: 60px;
+}
+#h2{
+   color: slategrey;
+   font-size: 60px;
+}
